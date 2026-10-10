@@ -18,7 +18,7 @@ Analysis of 2 years of UK street-level crime data (2023-2024) from Derbyshire, L
 - **Leicestershire** is the most stable, with the smallest swings from month to month.
 - **Derbyshire** is the most variable, with its lowest month in November 2024.
 - Crime tends to rise through spring and early summer, with more mixed patterns later in the year.
-- **Violence and sexual offences** is the most common crime type in all three counties.
+- Violence and sexual offences** is the most common crime type in all three counties.
 
 ## Tech Stack
 
