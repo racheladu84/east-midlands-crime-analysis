@@ -7,7 +7,7 @@ Analysis of 2 years of UK street-level crime data (2023-2024) from Derbyshire, L
 
 ## Highlights
 
-- Processed **72 monthly CSV files** (24 months x 3 forces) into a single Spark DataFrame using one wildcard read.
+- Processed 72 monthly CSV files (24 months x 3 forces) into a single Spark DataFrame using one wildcard read.
 - Cleaned the data: standardised county names, renamed columns, profiled missing values and removed duplicate records.
 - Used **Spark SQL** to measure total crime by county, monthly trends and crime type rankings.
 - Built line, bar and pie charts to compare the counties (all in the notebook).
